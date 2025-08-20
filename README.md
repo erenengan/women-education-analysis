@@ -41,7 +41,6 @@ The analysis integrates robust preprocessing, imputation, and visualization tech
 
 ## 📂 Repository Structure  
 ```bash
-├── data/             # Raw and cleaned datasets
-├── scripts/          # R scripts for preprocessing, EDA, and modeling
-├── results/          # Model outputs, statistical tests, and plots
 ├── README.md         # Project overview and documentation
+├── scripts/          # R scripts for preprocessing, EDA, and modeling
+
